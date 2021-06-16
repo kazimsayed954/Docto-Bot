@@ -5,7 +5,8 @@ Docto Bot is a Telegram Bot that will help users get the basic query related to 
 
 <details>
 <summary>How can I contribute? </summary> <br>
-  **1.** Fork [this](https://github.com/kazimsayed954/Docto-Bot) repository.
+	
+**1.** Fork [this](https://github.com/kazimsayed954/Docto-Bot) repository.
 
 <img src="https://miro.medium.com/max/700/0*8NFC0LcrKJhDoQAG.png" width=300>
 
