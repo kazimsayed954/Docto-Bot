@@ -2,6 +2,10 @@
 
 Docto Bot is a Telegram Bot that will help users get the basic query related to medical been resolved. Apart from the medical query, the bot can identify Brain tumors, Pneumonia, and skin cancer by an image.
 
+![Issues](https://img.shields.io/github/issues/kazimsayed954/Docto-Bot)
+![Pull Requests](https://img.shields.io/github/issues-pr/hkazimsayed954/Docto-Bot)
+![Forks](https://img.shields.io/github/forks/kazimsayed954/Docto-Bot)
+![Stars](https://img.shields.io/github/stars/kazimsayed954/Docto-Bot)
 
 <details>
 <summary>How can I contribute? </summary> <br>
