@@ -40,7 +40,7 @@ run_model = run_model()
 
 def reply_api(userinput):
     try:
-        r = requests.post(url='https://hf.space/embed/docto/Docto-Bot/+/api/predict/', json={"data": [userinput]})
+        r = requests.post(url='', json={"data": [userinput]})
         d= r.json()['data']
         return str(*d)
     except :
@@ -76,7 +76,7 @@ def get_bot_response():
     text = request.args.get('msg').strip()
     text=translater.translate(text,dest="en").text
     reply = reply_api(text.strip())
-    openai.api_key = "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"
+    openai.api_key = "apikey"
     response = openai.Completion.create(
     engine="text-davinci-001",
     prompt=reply,
